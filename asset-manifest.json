@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dreeblissa/static/css/main.e2232e7d.css",
+    "main.js": "/dreeblissa/static/js/main.3fd05024.js",
+    "static/js/787.cda612ba.chunk.js": "/dreeblissa/static/js/787.cda612ba.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/dreeblissa/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/dreeblissa/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "index.html": "/dreeblissa/index.html",
+    "main.e2232e7d.css.map": "/dreeblissa/static/css/main.e2232e7d.css.map",
+    "main.3fd05024.js.map": "/dreeblissa/static/js/main.3fd05024.js.map",
+    "787.cda612ba.chunk.js.map": "/dreeblissa/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2232e7d.css",
+    "static/js/main.3fd05024.js"
+  ]
+}
